@@ -1,0 +1,81 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.43.0",
+  "hash": "e30feb6b471a8fc55946",
+  "publicPath": "/static/",
+  "outputPath": "/Volumes/macOS Data/TECHY360/UI Revamp/techy360-frontity/techy360/build/static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "techy360": "techy360.module.js"
+  },
+  "assets": [
+    {
+      "name": "list.module.js",
+      "size": 48309,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "techy360.module.js",
+      "size": 5002025,
+      "chunks": [
+        "techy360"
+      ],
+      "chunkNames": [
+        "techy360"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "techy360": {
+      "chunks": [
+        "techy360"
+      ],
+      "assets": [
+        "techy360.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "techy360": {
+      "chunks": [
+        "techy360"
+      ],
+      "assets": [
+        "techy360.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
